@@ -1,4 +1,4 @@
-# Template Engine
+# Team Profile Generator
 
 ## About
 An app that generates an HTML file displaying the Employees on a team, based on user input into the terminal.  Created using test driven development, JavaScript, Node.js, Jest, and Inquirer.
